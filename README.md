@@ -1,5 +1,15 @@
 # Updated-portfolio-regrade
 
+images 
+
+![Screen Shot 2021-09-28 at 6 44 07 PM](https://user-images.githubusercontent.com/85514179/135175792-957522a2-0127-406c-9493-19717a1f05a2.png)
+
+
+![Screen Shot 2021-09-28 at 6 53 23 PM](https://user-images.githubusercontent.com/85514179/135177034-e6f76d4d-34bf-46e3-9c11-010e39941457.png)
+
+
+![Screen Shot 2021-09-28 at 6 53 12 PM](https://user-images.githubusercontent.com/85514179/135177061-0f4aedcf-4d2f-432e-b92e-d3bddda9fff4.png)
+
 
 A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
 
@@ -40,7 +50,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 
-images 
 
-![Screen Shot 2021-09-28 at 6 44 07 PM](https://user-images.githubusercontent.com/85514179/135175792-957522a2-0127-406c-9493-19717a1f05a2.png)
+
 
